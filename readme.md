@@ -1,2 +1,2 @@
 # Hello
-owned by sachin. ///
+owned by sachin. //
